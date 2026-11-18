@@ -1,0 +1,8 @@
+2026-11-16 19:22:09 | INFO     | __main__ | GIAI DOAN 1: EXTRACT
+2026-11-16 19:22:09 | INFO     | __main__ | Hoan tat pipeline ETL
+2026-11-16 19:23:45 | INFO     | __main__ | GIAI DOAN 1: EXTRACT
+2026-11-16 19:24:31 | INFO     | __main__ | GIAI DOAN 1: EXTRACT
+2026-11-16 19:24:58 | INFO     | __main__ | GIAI DOAN 1: EXTRACT
+2026-11-16 19:27:35 | INFO     | __main__ | GIAI DOAN 1: EXTRACT
+2026-11-16 20:48:44 | WARNING  | urllib3.connectionpool | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='oauth2.googleapis.com', port=443): Failed to resolve 'oauth2.googleapis.com' ([Errno -3] Temporary failure in name resolution)")': /token
+2026-11-16 21:11:32 | INFO     | __main__ | Hoan tat pipeline ETL
